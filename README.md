@@ -1,4 +1,4 @@
-# Test html 
+# Test HTML 
 
 Ce repos contient un projet HTML de test de la formation DevWeb du Cnam 
 
